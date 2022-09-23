@@ -1,0 +1,18 @@
+[
+  {
+    "text": "i am not feeling well",
+    "intent": "med_not_helped",
+    "intent_prediction": {
+      "name": "not_well",
+      "confidence": 0.648022472858429
+    }
+  },
+  {
+    "text": "it is bleeding",
+    "intent": "fracture_accepted",
+    "intent_prediction": {
+      "name": "fracture_details",
+      "confidence": 0.5141986608505249
+    }
+  }
+]
